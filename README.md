@@ -12,4 +12,7 @@ In order to run demo:
 
 Finally, use this link to access the demo from your browser: http://localhost:8501
 
+IMPORTANT: by default, docker will propose you to open an application via http://0.0.0.0:8501. If it is not working, you
+must use the link provided above.
+
 ![img.png](resources/img.png)

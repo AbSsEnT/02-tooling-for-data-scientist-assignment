@@ -6,7 +6,7 @@ using the Gradient Descent algorithm.
 Feel free to tweak related *Learning rate* and *Optimization step* widgets.
 
 In order to run demo:
-1) Clone the project and cd into the root of the project;
+1) Clone and cd into the root of the project;
 2) Build the dockerfile: ```docker build -t streamlit .```
 3) Run the docker container: ```docker run -p 8501:8501 streamlit```
 
